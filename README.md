@@ -1,7 +1,7 @@
 # Machine-Learning-from-Scratch
 
 ## Overview
-Implementing classic Machine Learning algorithms from scratch for learining purpose.
+Implementing classic Machine Learning algorithms from scratch for learning purpose.
 
 ## Regression
 * Linear Regression
