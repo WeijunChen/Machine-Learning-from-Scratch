@@ -5,4 +5,5 @@ Implementing classic Machine Learning algorithms from scratch for learning purpo
 
 ## Regression
 * Linear Regression
-  * [Simple Linear Regression with Gradient Descent](https://github.com/WeijunChen/Machine-Learning-from-Scratch/blob/master/LinearRegression.ipynb)
+  * [Simple Linear Regression with Gradient Descent](https://github.com/WeijunChen/Machine-Learning-from-Scratch/blob/master/LinearRegression.ipynb)  
+  * [Ridge Regression with Gradient Descent](https://github.com/WeijunChen/Machine-Learning-from-Scratch/blob/master/RidgeRegression.ipynb)
